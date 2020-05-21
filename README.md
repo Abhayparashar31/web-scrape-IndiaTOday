@@ -1,1 +1,3 @@
 # web-scrape-IndiaTOday
+
+#This is just for learning and educational purpose...
